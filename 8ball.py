@@ -37,7 +37,7 @@ while ans:
         print "My sources say no"
 
     elif answers == 9:
-	print "You are an idiot, STOP!"
+	print "You are an idiot, STOP Please!"
 
     elif answers == 10:
-	print "Yes, nailed it"
+	print "Yes, killed it"
